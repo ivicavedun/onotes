@@ -2,8 +2,8 @@
 node_modules
 
 # Don't include the compiled main.js in the repo
-main.js
-main.js.map
+# main.js
+# main.js.map
 
 # obsidian
 data.json
