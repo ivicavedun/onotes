@@ -1,0 +1,10 @@
+{
+    "id": "auto-timestamp-notes",
+    "name": "Auto Timestamp Notes",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically creates timestamped notes in note/YYYY-MM-DD/<unix-timestamp>.md format",
+    "author": "Your Name",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
